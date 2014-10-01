@@ -2,7 +2,6 @@
 /**
 * @author Salipro
 * @copyright Sungate Technologies - http://suga.vn
-* @tutorial  ClassName and FileName is the same and sensitive 
 */
 namespace Suga\Core;
 
