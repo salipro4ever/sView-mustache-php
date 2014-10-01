@@ -1,6 +1,6 @@
 ## sView-mustache-php
 
-A template engine build from Mustache PHP, add more documents...
+A template engine build from Mustache PHP, simple and lightweight...
 
 ## Installation
 
