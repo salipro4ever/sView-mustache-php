@@ -5,7 +5,7 @@ A template engine build from Mustache PHP, add more documents...
 ## Installation
 
 ```php
-reqiure 'View.php';
+require 'View.php';
 ```
 
 ## Usage
